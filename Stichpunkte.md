@@ -71,3 +71,7 @@ Entwerfen Sie eine Mustervereinbarung zwischen dem Verantwortlichen und dem Auft
 # Allgemeine Notizen
 * Fragen in Vortrag direkt reinnehmen.
 * Man könnte das Beispiel an den Vorgaben beschreiben.
+* Zitate direkt in die Fußnote
+* Mustervertrag zählt zu der Anzahl der Seiten
+* FÜr den Vertrag können wir - aber müssen nicht - ein konkretes Beispiel benutzen
+* Fazit ist die Erklärung des Vertrags
