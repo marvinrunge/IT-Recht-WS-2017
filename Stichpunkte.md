@@ -41,7 +41,7 @@ Entwerfen Sie eine Mustervereinbarung zwischen dem Verantwortlichen und dem Auft
     * Anwendungsbereiche
     * Begriffsbestimmung (auch für Auftragsverarbeitung)
 
-//DENIS
+//Marvin
 * Die Auftragsverarbeitung erklären.(aktuelles, nicht das neue)[Was ist Auftragsverarbeitung?]{Schätzung: 3-4 Seiten}
     * Was ist ein ADV Vertrag? 
     * Wofür braucht man es?
@@ -49,11 +49,11 @@ Entwerfen Sie eine Mustervereinbarung zwischen dem Verantwortlichen und dem Auft
     * an konkrete Beispiele sachlich erklären
     * Vorgaben
 
-//GORDEN
+//Marvin
 * Vorgaben[Welche rechtlichen Vorgaben für den Verantwortlichen und Auftragsverarbeiter?]{Schätzung: 2-3 Seiten}
     * Paragraph allgemein erklären.
 
-//GORDEN
+//Denis
 * Haftung[Wie ist die Haftung der beiden Beteiligten bei Datenschutzverletzung rechtlich ausgestaltet?]{Schätzung: 2 Seiten}
 
 //NIK
@@ -61,11 +61,11 @@ Entwerfen Sie eine Mustervereinbarung zwischen dem Verantwortlichen und dem Auft
     * Unterschiede zu vorherigen ADV
     * Folgen
 
-//MARVIN
+//Gorden
 * Vertrag{Schätzung: 3 Seiten}
     * Erklärung des Vertrages.
     * Was muss drin stehen? Was steht bei uns drin?
-
+//Denis Gorden
 * Mustervertrag{Schätzung ~10 Seiten}
 
 # Allgemeine Notizen
